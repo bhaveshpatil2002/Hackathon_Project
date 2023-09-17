@@ -29,7 +29,7 @@ include "header.php";
             A spinner game is a fun and versatile activity using a spinning arrow device. Players take turns spinning it to determine actions or outcomes. It's used in games like Truth or Dare and for random selection in education. Spinner games are a simple yet engaging way to make decisions and have fun.
             </p>
             <div class="btn-box">
-                      <a href="allgames.php" class="btn-2">PLAY NOW</a>
+                      <a href="user-login.php" class="btn-2">PLAY NOW</a>
                     </div>
           </div>
         </div>

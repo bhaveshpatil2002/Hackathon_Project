@@ -226,7 +226,9 @@ include "header.php";
             resultValue = 101;
           }
         }, 10);
-      });</script>
+      });
+      
+      </script>
   </body>
 </html>
 <?php
